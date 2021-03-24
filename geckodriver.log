@@ -16,3 +16,344 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1616568697759	Marionette	WARN	TLS certificate errors will be ignored for this session
 Gtk-Message: 14:51:38.249: Failed to load module "appmenu-gtk-module"
 1616568703465	Marionette	INFO	Stopped listening on port 42143
+1616569451174	geckodriver	INFO	Listening on 127.0.0.1:40103
+1616569451176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecuMN0w"
+Gtk-Message: 15:04:11.253: Failed to load module "appmenu-gtk-module"
+
+(firefox:7521): Gtk-WARNING **: 15:04:11.458: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:7521): Gtk-WARNING **: 15:04:11.458: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 15:04:11.729: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:04:11.811: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:7521): GLib-GIO-WARNING **: 15:04:11.867: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1616569452311	Marionette	INFO	Listening on port 45673
+1616569452390	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 15:04:12.766: Failed to load module "appmenu-gtk-module"
+1616569461389	Marionette	INFO	Stopped listening on port 45673
+1616569474937	geckodriver	INFO	Listening on 127.0.0.1:54085
+1616569474940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo8K2cs"
+Gtk-Message: 15:04:35.013: Failed to load module "appmenu-gtk-module"
+
+(firefox:7839): Gtk-WARNING **: 15:04:35.220: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:7839): Gtk-WARNING **: 15:04:35.220: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 15:04:35.494: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:04:35.572: Failed to load module "appmenu-gtk-module"
+
+(firefox:7839): GLib-GIO-WARNING **: 15:04:35.612: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616569476052	Marionette	INFO	Listening on port 40031
+1616569476152	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 15:04:36.501: Failed to load module "appmenu-gtk-module"
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:41.742: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:41.742: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:41.742: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:41.762: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:41.805: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:43.246: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:44.692: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7839): GLib-GObject-WARNING **: 15:04:52.849: ../glib/gobject/gsignal.c:3596: signal name 'load_complete' is invalid for instance '0x7fcf345e4d10' of type 'MaiAtkType139'
+
+(firefox:7839): GLib-GObject-WARNING **: 15:04:52.849: ../glib/gobject/gsignal.c:3596: signal name 'load_complete' is invalid for instance '0x7fcf345e4cb0' of type 'MaiAtkType139'
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:52.914: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:52.914: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7839): GLib-GObject-CRITICAL **: 15:04:52.996: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1616577856486	geckodriver	INFO	Listening on 127.0.0.1:39763
+1616577856488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDBXoUc"
+Gtk-Message: 17:24:16.567: Failed to load module "appmenu-gtk-module"
+
+(firefox:35782): Gtk-WARNING **: 17:24:16.784: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:35782): Gtk-WARNING **: 17:24:16.784: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 17:24:17.077: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:24:17.158: Failed to load module "appmenu-gtk-module"
+
+(firefox:35782): GLib-GIO-WARNING **: 17:24:17.195: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616577857626	Marionette	INFO	Listening on port 42561
+1616577857702	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 17:24:18.082: Failed to load module "appmenu-gtk-module"
+1616578148181	geckodriver	INFO	Listening on 127.0.0.1:43253
+1616578148184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile47aVra"
+Gtk-Message: 17:29:08.260: Failed to load module "appmenu-gtk-module"
+
+(firefox:37258): Gtk-WARNING **: 17:29:08.482: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:37258): Gtk-WARNING **: 17:29:08.482: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 17:29:08.776: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:29:08.864: Failed to load module "appmenu-gtk-module"
+
+(firefox:37258): GLib-GIO-WARNING **: 17:29:08.924: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616578149335	Marionette	INFO	Listening on port 33967
+1616578149396	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 17:29:09.769: Failed to load module "appmenu-gtk-module"
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 41ms)
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:114:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:174:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:91:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:609:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+1616578434269	Marionette	INFO	Stopped listening on port 33967
+1616578434313	Marionette	INFO	Stopped listening on port 40031
+1616578434321	Marionette	INFO	Stopped listening on port 42561
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616579283299	geckodriver	INFO	Listening on 127.0.0.1:45099
+1616579284305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledzuEnB"
+Gtk-Message: 17:48:04.379: Failed to load module "appmenu-gtk-module"
+
+(firefox:3577): Gtk-WARNING **: 17:48:04.592: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:3577): Gtk-WARNING **: 17:48:04.592: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 17:48:04.867: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:48:04.947: Failed to load module "appmenu-gtk-module"
+
+(firefox:3577): GLib-GIO-WARNING **: 17:48:05.004: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616579285395	Marionette	INFO	Listening on port 34091
+1616579285420	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 17:48:05.875: Failed to load module "appmenu-gtk-module"
+1616579570341	Marionette	INFO	Stopped listening on port 34091
+1616579573238	geckodriver	INFO	Listening on 127.0.0.1:57521
+1616579573241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenuCuSy"
+Gtk-Message: 17:52:53.318: Failed to load module "appmenu-gtk-module"
+
+(firefox:5047): Gtk-WARNING **: 17:52:53.540: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:5047): Gtk-WARNING **: 17:52:53.540: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 17:52:53.810: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:52:53.893: Failed to load module "appmenu-gtk-module"
+
+(firefox:5047): GLib-GIO-WARNING **: 17:52:53.972: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616579574327	Marionette	INFO	Listening on port 42559
+1616579574355	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 17:52:54.811: Failed to load module "appmenu-gtk-module"
+1616579659594	Marionette	INFO	Stopped listening on port 42559
+1616579665215	geckodriver	INFO	Listening on 127.0.0.1:46731
+1616579665218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5WjPNT"
+Gtk-Message: 17:54:25.293: Failed to load module "appmenu-gtk-module"
+
+(firefox:5638): Gtk-WARNING **: 17:54:25.505: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:5638): Gtk-WARNING **: 17:54:25.505: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 17:54:25.776: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:54:25.854: Failed to load module "appmenu-gtk-module"
+
+(firefox:5638): GLib-GIO-WARNING **: 17:54:25.908: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616579666277	Marionette	INFO	Listening on port 38145
+1616579666331	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 17:54:26.784: Failed to load module "appmenu-gtk-module"
+1616579730495	geckodriver	INFO	Listening on 127.0.0.1:57835
+1616579730497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemukKrH"
+Gtk-Message: 17:55:30.570: Failed to load module "appmenu-gtk-module"
+
+(firefox:6089): Gtk-WARNING **: 17:55:30.788: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:6089): Gtk-WARNING **: 17:55:30.788: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 17:55:31.082: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:55:31.162: Failed to load module "appmenu-gtk-module"
+
+(firefox:6089): GLib-GIO-WARNING **: 17:55:31.199: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616579731567	Marionette	INFO	Listening on port 35761
+1616579731612	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 17:55:32.071: Failed to load module "appmenu-gtk-module"
+1616579747180	Marionette	INFO	Stopped listening on port 35761
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.bupt.edu.cn"
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616580596500	Marionette	INFO	Stopped listening on port 38145
+1616580613060	geckodriver	INFO	Listening on 127.0.0.1:51049
+1616580613063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDQY1u5"
+Gtk-Message: 18:10:13.138: Failed to load module "appmenu-gtk-module"
+
+(firefox:9393): Gtk-WARNING **: 18:10:13.350: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:9393): Gtk-WARNING **: 18:10:13.350: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 18:10:13.622: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:10:13.703: Failed to load module "appmenu-gtk-module"
+
+(firefox:9393): GLib-GIO-WARNING **: 18:10:13.760: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616580614142	Marionette	INFO	Listening on port 38903
+1616580614175	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 18:10:14.641: Failed to load module "appmenu-gtk-module"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1616580637077	Marionette	INFO	Stopped listening on port 38903
+1616580638796	geckodriver	INFO	Listening on 127.0.0.1:54489
+1616580638799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1RrN7L"
+Gtk-Message: 18:10:38.869: Failed to load module "appmenu-gtk-module"
+
+(firefox:9704): Gtk-WARNING **: 18:10:39.084: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:9704): Gtk-WARNING **: 18:10:39.084: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 18:10:39.360: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:10:39.442: Failed to load module "appmenu-gtk-module"
+
+(firefox:9704): GLib-GIO-WARNING **: 18:10:39.505: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616580639894	Marionette	INFO	Listening on port 44645
+1616580639911	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 18:10:40.367: Failed to load module "appmenu-gtk-module"
+1616580659376	Marionette	INFO	Stopped listening on port 44645
+1616580703925	geckodriver	INFO	Listening on 127.0.0.1:43959
+1616580703928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebn48dN"
+Gtk-Message: 18:11:44.007: Failed to load module "appmenu-gtk-module"
+
+(firefox:10102): Gtk-WARNING **: 18:11:44.204: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:10102): Gtk-WARNING **: 18:11:44.204: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 18:11:44.479: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:11:44.559: Failed to load module "appmenu-gtk-module"
+
+(firefox:10102): GLib-GIO-WARNING **: 18:11:44.607: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616580704988	Marionette	INFO	Listening on port 34243
+1616580705043	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 18:11:45.481: Failed to load module "appmenu-gtk-module"
+1616581277461	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1616581493035	geckodriver	INFO	Listening on 127.0.0.1:56177
+1616581493037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileILMbOy"
+Gtk-Message: 18:24:53.107: Failed to load module "appmenu-gtk-module"
+
+(firefox:13097): Gtk-WARNING **: 18:24:53.319: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:13097): Gtk-WARNING **: 18:24:53.320: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 18:24:53.586: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:24:53.665: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:13097): GLib-GIO-WARNING **: 18:24:53.737: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1616581494124	Marionette	INFO	Listening on port 43657
+1616581494151	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 18:24:54.596: Failed to load module "appmenu-gtk-module"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1616581534414	Marionette	INFO	Stopped listening on port 43657
+1616581592320	geckodriver	INFO	Listening on 127.0.0.1:52499
+1616581592323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerZRHFB"
+Gtk-Message: 18:26:32.397: Failed to load module "appmenu-gtk-module"
+
+(firefox:13692): Gtk-WARNING **: 18:26:32.601: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:13692): Gtk-WARNING **: 18:26:32.601: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 18:26:32.870: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:26:32.950: Failed to load module "appmenu-gtk-module"
+
+(firefox:13692): GLib-GIO-WARNING **: 18:26:32.997: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616581593415	Marionette	INFO	Listening on port 36651
+1616581593436	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 18:26:33.874: Failed to load module "appmenu-gtk-module"
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616581601615	Marionette	INFO	Stopped listening on port 36651
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616581609064	geckodriver	INFO	Listening on 127.0.0.1:35591
+1616581609067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecMhpQj"
+Gtk-Message: 18:26:49.142: Failed to load module "appmenu-gtk-module"
+
+(firefox:13985): Gtk-WARNING **: 18:26:49.349: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:13985): Gtk-WARNING **: 18:26:49.349: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 18:26:49.619: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:26:49.697: Failed to load module "appmenu-gtk-module"
+
+(firefox:13985): GLib-GIO-WARNING **: 18:26:49.735: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616581610135	Marionette	INFO	Listening on port 42841
+1616581610181	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 18:26:50.646: Failed to load module "appmenu-gtk-module"
+1616581728380	geckodriver	INFO	Listening on 127.0.0.1:36423
+1616581728383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9EdWLP"
+Gtk-Message: 18:28:48.458: Failed to load module "appmenu-gtk-module"
+
+(firefox:14680): Gtk-WARNING **: 18:28:48.655: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:14680): Gtk-WARNING **: 18:28:48.656: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 18:28:48.944: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:28:49.025: Failed to load module "appmenu-gtk-module"
+
+(firefox:14680): GLib-GIO-WARNING **: 18:28:49.089: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616581729537	Marionette	INFO	Listening on port 41549
+1616581729597	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 18:28:49.976: Failed to load module "appmenu-gtk-module"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1616581797758	Marionette	INFO	Stopped listening on port 41549
+1616581799452	Marionette	INFO	Stopped listening on port 34243
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616581801053	Marionette	INFO	Stopped listening on port 42841
