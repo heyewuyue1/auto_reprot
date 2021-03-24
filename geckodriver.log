@@ -1,0 +1,18 @@
+1616568695536	geckodriver	INFO	Listening on 127.0.0.1:57459
+1616568696543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDzEA6d"
+Gtk-Message: 14:51:36.652: Failed to load module "appmenu-gtk-module"
+
+(firefox:5120): Gtk-WARNING **: 14:51:36.895: Theme directory panel/22-light of theme Mojave-CT-Light has no size field
+
+
+(firefox:5120): Gtk-WARNING **: 14:51:36.895: Theme directory panel/16 of theme Mojave-CT-Light has no size field
+
+Gtk-Message: 14:51:37.173: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:51:37.251: Failed to load module "appmenu-gtk-module"
+
+(firefox:5120): GLib-GIO-WARNING **: 14:51:37.316: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616568697695	Marionette	INFO	Listening on port 42143
+1616568697759	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 14:51:38.249: Failed to load module "appmenu-gtk-module"
+1616568703465	Marionette	INFO	Stopped listening on port 42143
