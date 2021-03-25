@@ -1,10 +1,13 @@
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
 from time import sleep
 # TODO 定位功能有问题
 
 # 设置一些常量
 
-# 设置网络驱动器，火狐浏览器
+# 设置网络驱动器，火狐浏览器，无界面
+option = webdriver.FirefoxOptions()
+option.add_argument('--headless')
 driver = webdriver.Firefox(executable_path='/usr/bin/geckodriver')
 
 # 登录界面地址
@@ -31,7 +34,7 @@ inschool_button_confirm = "/html/body/div[3]/div/div[2]/div[2]"
 location_button = "/html/body/div[1]/div/div/section/div[4]/ul/li[9]/div/input"
 
 # 中高风险地区
-high_risk_area_button = "/html/body/div[1]/div/div/section/div[4]/ul/li[10]/div/div/div[2]/span[1]/i"
+high_risk_area_button = "/html/body/div[1]/div/div/section/div[4]/ul/li[9]/div/div/div[2]/span[1]/i"
 
 # 提交按钮
 submitt_button = "/html/body/div[1]/div/div/section/div[5]/div/a"
@@ -48,10 +51,11 @@ class user:
     #用户在管理系统中的索引
     user_index: int
 
-    #构造函数
-    def __init__(self, m_id: str, password: str)->None:
-        self.user_id = m_id
-        self.user_password = password
+    #构造函数 
+    def __init__(self, user_id:str, user_password:str)->None:
+        self.user_id = user_id
+        self.user_password = user_password
+
 
     def login(self)->bool:
         print("用户：" + self.user_id +" 正在登录...")
@@ -76,12 +80,15 @@ class user:
     def fill_form(self)->bool:
         print("用户：" + self.user_id +" 正在填报...")
         driver.find_element_by_xpath(inschool_button_yes).click()     # 点击是否在校->是
-        sleep(1)
-        driver.find_element_by_xpath(inschool_button_confirm).click() # 点击确认按钮
-        sleep(1)
+        sleep(0.5)
+        try:
+            driver.find_element_by_xpath(inschool_button_confirm).click()# 点击确认按钮
+        except NoSuchElementException:
+            print("不需要确认在校")
         # driver.find_element_by_xpath(location_button).click()   # 点击定位按钮
         # sleep(5)
         driver.find_element_by_xpath(high_risk_area_button).click() # 点击是否在中高风险地区->否
+        sleep(0.5)
         driver.find_element_by_xpath(submitt_button).click()    # 点击提交按钮
         return True
 
